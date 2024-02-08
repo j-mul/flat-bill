@@ -44,3 +44,4 @@ the_bill = Bill(amount= 120, period= 'March 2021')
 john = Flatmate(name= 'John', days_in_house= 20)
 mary = Flatmate(name= 'Mary', days_in_house= 25)
 print(john.pays(bill= the_bill, flatmate2= mary))
+#
